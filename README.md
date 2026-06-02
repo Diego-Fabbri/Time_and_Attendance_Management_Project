@@ -8,5 +8,6 @@ The sample data used to populate the **Employees** Master Data Table in this pro
 > **Employee Data** by Kaggle
 > [https://www.kaggle.com/datasets/zahidmughal2343/employee-data](https://www.kaggle.com/datasets/zahidmughal2343/employee-data)
 
+Addtional attributes are assigned randomly.
 This data is used **solely for demonstration and testing purposes**.
 All credits for the sample dataset go to the original author on Kaggle.
