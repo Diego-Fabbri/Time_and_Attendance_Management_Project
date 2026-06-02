@@ -1,7 +1,7 @@
 ## 👤🕐 Time and Attendance Management Project
 This project aims at managing a basic SQL Database for Time and Attendance Management (TAM) Holding Company
 
-# 📋 Data Sources & Disclosures
+### 📋 Data Sources & Disclosures
 
 The sample data used to populate the **Employees** Master Data Table in this project is sourced from the publicly available dataset:
 
