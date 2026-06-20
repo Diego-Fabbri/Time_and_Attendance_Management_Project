@@ -48,7 +48,7 @@ Run the scripts **in order**:
 -- 1. Create the database schema (tables, keys, constraints)
 :r TAM_Database_Creation.sql
 
--- 2. Load master data (companies, departments, causali, users)
+-- 2. Load master data (companies, departments, attendaces, users)
 :r TAM_Database_INSERT_MasterData.sql
 
 -- 3. Load transactional sample data (attendance records)
