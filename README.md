@@ -7,14 +7,14 @@ The project models badge swipe events, attendance causes, organizational departm
 ```
 .
 ├── SUPPORT FILES/
-│   ├── AI_Prompt.docx                          # Prompt used to generate sample badge swipe data
-│   ├── BadgeSwipes_SampleData_GitHub.xlsx      # AI-generated sample badge swipe data
-│   ├── Attendances_SampleData_GitHub.xlsx      # Sample attendance records (other causali + durations, derived from ordinary work hours)
-│   └── MasterData_GitHub.xlsx                  # Reference master data (companies, departments, causali, users)
+│   ├── AI_Prompt.docx                           # Prompt used to generate sample badge swipe data
+│   ├── BadgeSwipes_SampleData_GitHub.xlsx       # AI-generated sample badge swipe data
+│   ├── Attendances_SampleData_GitHub.xlsx       # Sample attendance records (other attendances + durations, derived from ordinary work hours)
+│   └── MasterData_GitHub.xlsx                   # Reference master data (firms, departments, attendances, users)
 │
 └── DATABASE SQL SCRIPT/
-    ├── TAM_Database_Creation.sql               # DDL: creates tables, keys, and constraints
-    ├── TAM_Database_INSERT_MasterData.sql      # Populates master data tables
+    ├── TAM_Database_Creation.sql                # DDL: creates tables, keys, and constraints
+    ├── TAM_Database_INSERT_MasterData.sql       # Populates master data tables
     └── TAM_Database_INSERT_TransactionaData.sql # Populates transactional tables with sample attendance data
 ```
 
