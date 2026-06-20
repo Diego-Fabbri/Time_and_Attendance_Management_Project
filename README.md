@@ -1,5 +1,6 @@
 ## 👤🕐 Time and Attendance Management Project
-A SQL Server relational database for managing **Time and Attendance (T&A)** data across a **multi-company Holding structure**. The project models badge swipe events, attendance causes, organizational departments, and consolidates them into a clean, queryable schema designed for reporting and payroll integration.
+A SQL Server relational database for managing **Time and Attendance (T&A)** data across a **multi-company Holding structure**. 
+The project models badge swipe events, attendance causes, organizational departments, and consolidates them into a clean, queryable schema designed for reporting and payroll integration.
 
 ## Project structure
 
